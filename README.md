@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geoarc1440
+- 👋 Hi, I’m @Geoarc1440 (Zachary Probolus)
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning how to write code
 - 💞️ I’m looking to collaborate on ...
